@@ -1,2 +1,29 @@
-# checkers-game-js
-Developed an interactive Checkers game using JavaScript and HTML Canvas, implementing full game logic including piece movement, king promotion, jump detection, and turn‑based interactions. Designed an object‑oriented structure with a Piece constructor to manage state, validate moves, and update the board dynamically. 
+# Checkers Game
+
+A simple Checkers game implemented in JavaScript using the HTML5 Canvas API.
+
+## Features
+- Interactive 8x8 checkers board
+- Player selection and movement
+- King promotion
+- Jumping and capturing mechanics (basic implementation)
+
+## How to Play
+1. Open `index.html` in a web browser.
+2. Click on a piece to select it.
+3. Click on a valid move to move the piece.
+4. If a piece reaches the opposite end, it becomes a king.
+
+## Upcoming Features
+- Enforce turn-based gameplay.
+- Implement forced jumps (Checkers rules).
+- Highlight valid moves.
+- Add game-over detection.
+- Improve king movement.
+
+
+## Technologies Used
+- HTML5
+- JavaScript
+- Canvas API
+
